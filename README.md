@@ -55,14 +55,14 @@ pip install customtkinter pillow numpy piexif
 ### Spuštění
 
 ```bash
-python archival_watermark_v4.py
+python digitalnipecet.py
 ```
 
 ---
 
 ## Sestavení EXE (Windows)
 
-1. Ulož `archival_watermark_v4.py`, `icon.ico` a `build.bat` do jedné složky
+1. Ulož `digitalnipecet.py`, `icon.ico` a `build.bat` do jedné složky
 2. Spusť `build.bat` dvojklikem
 3. Výsledek: `dist\Pamatnik_Digitalni_Pecet.exe`
 
@@ -74,7 +74,7 @@ python archival_watermark_v4.py
 
 ```
 📁 projekt
-├── archival_watermark_v4.py   # hlavní aplikace
+├── digitalnipecet.py   # hlavní aplikace
 ├── icon.ico                   # ikonka aplikace
 ├── build.bat                  # skript pro sestavení EXE (Windows)
 └── README.md
