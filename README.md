@@ -1,13 +1,13 @@
 # Památník – Digitální pečeť
 
 > Desktopová aplikace pro neviditelné steganografické označení digitálních archiválií.  
-> Vyvinuto pro potřeby **Památníku Terezín**. Ke spuštění stačí stáhnout exe soubor!!
+> Vyvinuto pro potřeby **Památníku Terezín**. 
 
 ---
 
 ## Co aplikace dělá
 
-Zaměstnanci památníku vydávají badatelům digitální kopie archiválií (skeny dokumentů, fotografií, map). Aplikace do každého vydaného souboru **neviditelně vloží identitu badatele** — jméno, adresu, číslo smlouvy. Pokud se sken neoprávněně objeví na internetu nebo jinde, aplikace ho zpětně identifikuje.
+Zaměstnanci památníku vydávají badatelům digitální kopie archiválií (skeny dokumentů, fotografií, map). Aplikace do každého vydaného souboru **neviditelně vloží identitu badatele** — jméno, adresu, číslo smlouvy. Pokud se sken neoprávněně objeví na internetu nebo jinde, aplikace ho zpětně identifikuje. Ke spuštění stačí stáhnout exe soubor!!
 
 ### Funkce
 
