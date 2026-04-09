@@ -14,7 +14,7 @@ Zaměstnanci památníku vydávají badatelům digitální kopie archiválií (s
 | Záložka | Kdo ji používá | Co dělá |
 |---|---|---|
 | 🔒 **Zabezpečení** | zaměstnanec při výdeji | Vloží ID do skenů a uloží zabezpečené kopie |
-| 🔍 **Kontrola úniku** | správce / IT | Přečte ID z podezřelého souboru |
+| 🔍 **Kontrola úniku** | Uživatel | Přečte ID z podezřelého souboru |
 
 ---
 
