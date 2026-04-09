@@ -1,7 +1,7 @@
 # Památník – Digitální pečeť
 
 > Desktopová aplikace pro neviditelné steganografické označení digitálních archiválií.  
-> Vyvinuto pro potřeby **Památníku Terezín**.
+> Vyvinuto pro potřeby **Památníku Terezín**. Ke spuštění stačí stáhnout exe soubor!!
 
 ---
 
